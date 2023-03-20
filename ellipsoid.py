@@ -1,3 +1,4 @@
+#code downloaded from here http://www.juddzone.com/ALGORITHMS/least_squares_3D_ellipsoid.html
 from numpy.linalg import eig, inv
 import numpy as np
 #least squares fit to a 3D-ellipsoid
